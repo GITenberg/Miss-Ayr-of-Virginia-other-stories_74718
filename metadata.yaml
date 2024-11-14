@@ -1,0 +1,31 @@
+_repo: Miss-Ayr-of-Virginia-other-stories_74718
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Magruder, Julia
+    birthdate: 1854
+    deathdate: 1907
+    gutenberg_agent_id: '31714'
+    url: http://www.gutenberg.org/2009/agents/31714
+    wikipedia: https://en.wikipedia.org/wiki/Julia_Magruder
+description: ''
+gutenberg_issued: '2024-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74718'
+language: en
+pgterms:marc904: https://archive.org/details/missayrofvirgini00magriala
+pgterms:marc905: 20181229150010magruder
+pgterms:marc906: '1896'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bHerbert S. Stone and Co., $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Miss Ayr of Virginia & other stories
+url: http://www.gutenberg.org/ebooks/74718
